@@ -24,19 +24,19 @@ A produção de uma empresa de aço envolve a fabricação de vários tipos de c
 
 ## Organização
 
-Gerdau_Data4All
- ┣ Canvas
- ┃ ┣ 5w.pdf
- ┃ ┣ Canvas ML.pdf
- ┃ ┗ Problema de negócio.pdf
- ┣ Data
- ┃ ┗ dataset.csv
- ┣ Exploratory_Data_Analysis
- ┃ ┗ Exploratory_Data_Analysis.ipynb
- ┣ Modelo
- ┃ ┗ Modelo.ipynb
- ┣ Relatorio
- ┃ ┣ Relatório.pdf
- ┃ ┗ Storytelling.pdf
- ┗ README.md
+    Gerdau_Data4All
+     ┣ Canvas
+     ┃ ┣ 5w.pdf
+     ┃ ┣ Canvas ML.pdf
+     ┃ ┗ Problema de negócio.pdf
+     ┣ Data
+     ┃ ┗ dataset.csv
+     ┣ Exploratory_Data_Analysis
+     ┃ ┗ Exploratory_Data_Analysis.ipynb
+     ┣ Modelo
+     ┃ ┗ Modelo.ipynb
+     ┣ Relatorio
+     ┃ ┣ Relatório.pdf
+     ┃ ┗ Storytelling.pdf
+     ┗ README.md
  
